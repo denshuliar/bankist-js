@@ -1,1 +1,1 @@
-# bankist-js
+# Initial project on js
